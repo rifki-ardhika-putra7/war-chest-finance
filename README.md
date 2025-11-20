@@ -3,8 +3,7 @@
 > **A secure, multi-user personal finance application designed to track income, expenses, and estimate financial survival runway.**
 > *Built for discipline, engineered for stability.*
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Screenshot+Dashboard+WarChest+Lu)
-*(Ganti link di atas dengan URL gambar screenshot dashboard War Chest lu yang Neon)*
+![Dashboard Preview](https://github.com/rifki-ardhika-putra7/war-chest-finance/blob/main/War%20Chest.png)
 
 ## 🚀 Overview
 **War Chest** bukan sekadar pencatat keuangan biasa. Aplikasi ini dirancang dengan filosofi **"Survival Mode"**, membantu pengguna memvisualisasikan kesehatan finansial mereka secara *real-time*.
@@ -50,4 +49,4 @@ Dilengkapi dengan sistem keamanan **Encrypted Authentication**, aplikasi ini men
 
 ## 🤝 Contact
 Dibuat oleh **Kay** - *Informatics Engineering Student & Full Stack Developer*.
-[LinkedIn](Link LinkedIn Lu) | [rfkikun@gmail.com](Email Lu)
+[LinkedIn] | [rfkikun@gmail.com]
